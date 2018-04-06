@@ -1373,9 +1373,6 @@ body {
 .dropup .dropdown-toggle::after {
   display: none;
 }
-.cid-qJQmWzHR47 {
-  background-image: url("../../../assets/images/kasia-i-adam-31-2000x1333.jpg");
-}
 .cid-qOn1263vs3 .navbar {
   background: #ffffff;
   transition: none;
@@ -2389,4 +2386,7 @@ body {
 }
 .cid-qOr6ywSBaK .card-title {
   text-align: center;
+}
+.cid-qJQmWzHR47 {
+  background-image: url("../../../assets/images/kasia-i-adam-31-2000x1333.jpg");
 }
