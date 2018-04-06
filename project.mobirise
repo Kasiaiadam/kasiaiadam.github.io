@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Kasia i Adam",
-    "currentPage": ".html",
+    "currentPage": "home.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 49,
     "versionPublish": "4.6.5",
@@ -1483,7 +1483,7 @@
         }
       ]
     },
-    ".html": {
+    "home.html": {
       "settings": {
         "main": true,
         "title": "Kasia i Adam",
